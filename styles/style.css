@@ -223,7 +223,7 @@
   z-index: 1;
 }
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
+.kaufman__table_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
@@ -256,7 +256,7 @@
   padding: 0;
 }
 
-.footer__column_content_copyright {  
+.footer__column_content_copyright {
   display: flex;
   flex-basis: 711px;
   flex-direction: column;
