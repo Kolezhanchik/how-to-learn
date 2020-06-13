@@ -223,7 +223,7 @@
   z-index: 1;
 }
 /* и элемента с модификатором вида ключ-значение */
-.kaufman__table_theme_dark {
+.table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
