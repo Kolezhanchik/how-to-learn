@@ -5,4 +5,10 @@
     color: #ffffff;
     margin: 0;
     padding: 0;
-  }
+    transition: opacity .4s ease-in-out;
+    text-decoration: none;
+}
+
+.footer__column-link:hover {
+    opacity: 0.5;
+}
