@@ -3,4 +3,5 @@
     padding: 0;
     height: 608px;
     display: flex;
+    align-items: flex-start;
 }
