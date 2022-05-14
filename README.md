@@ -1,10 +1,10 @@
-# Научиться учиться
-## Учебный проект выполненный в рамках обучения Яндекс.Практикум/фронтенд-разработчик
-## Второй спринт, углубленное изучение HTML/CSS
+# Learning to learn
+## A training project completed as part of the Yandex.Practicum/Frontend Developer training
+## The second sprint, an in-depth study of HTML/CSS
 
-Проект посвящен различным техникам обучения/самообучения 
+The project is dedicated to various learning/self-learning techniques 
 
-В проекте использованы такие технологии HTML/CSS, как; 
+The project tech stack is such HTML/CSS technologies as: 
 
 1. Flexbox. 
 2. CSS Animation/transformation.
@@ -13,11 +13,4 @@
 5. BEM metodology. 
 
 
-В рамках продолжения обучения, в проекте планируется:
-* подключить гугл шрифты, кастомные шрифты. 
-* проверить кроссбраузерность страницы. 
-* добавить вендорные префиксы.
-* добавить форму обратной связи. 
-
-ссылка на проект https://kolenhen.github.io/how-to-learn/index.html
-
+project git-page link https://kolezhanchik.github.io/how-to-learn/index.html
